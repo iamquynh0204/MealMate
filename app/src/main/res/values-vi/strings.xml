@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MealMate</string>
+    <string name="explore_recipes">Khám phá công thức</string>
+    <string name="your_meal_plan">Kế hoạch bữa ăn của bạn</string>
+    <string name="your_shopping_list">Danh sách mua sắm của bạn</string>
+    <string name="nutrition_tracker">Theo dõi dinh dưỡng</string>
+    <string name="community_tips">Mẹo từ cộng đồng</string>
+    <string name="choose_diet">Chọn chế độ ăn</string>
+    <string name="settings">Cài đặt của bạn</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="spanish">Tiếng Tây Ban Nha</string>
+</resources>

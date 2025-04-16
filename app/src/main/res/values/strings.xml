@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">MealMate</string>
+    <string name="explore_recipes" translatable="false">Explore Recipes</string>
+    <string name="your_meal_plan" translatable="false">Your Meal Plan</string>
+    <string name="your_shopping_list" translatable="false">Your Shopping List</string>
+    <string name="nutrition_tracker" translatable="false">Nutrition Tracker</string>
+    <string name="community_tips" translatable="false">Community Tips</string>
+    <string name="choose_diet" translatable="false">Choose a Diet</string>
+    <string name="settings" translatable="false">Your Settings</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="vietnamese" translatable="false">Vietnamese</string>
+    <string name="spanish" translatable="false">Spanish</string>
+</resources>
